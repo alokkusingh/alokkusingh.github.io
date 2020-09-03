@@ -1,7 +1,7 @@
 ---
 author: "Alok Singh"
 title: "About Alok Singh"
-date: "2020-08-03"
+date: "2020-09-03"
 description: "Technology Enthusiast"
 tags: [
 ]

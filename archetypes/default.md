@@ -1,9 +1,9 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-description: ""
-date: {{ .Date }}
 author: "Alok Singh"
-tags: []
-image: "Alok.jpeg"
+title: "About Alok Singh"
+date: "2020-09-03"
+description: "Technology Enthusiast"
+tags: [
+]
 ---
 
