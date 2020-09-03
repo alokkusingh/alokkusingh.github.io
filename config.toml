@@ -8,7 +8,7 @@ theme = "hugo-theme-prav"
   title = "Alok Singh"
   tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   author = "Alok Singh"
-  authorImgPath = "/img/Alok.jpeg"
+  authorImgPath = "/public/img/Alok.jpeg"
   authorBlurb = "Alok Singh | Technology Enthusiast"
 
 [social]
